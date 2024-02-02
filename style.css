@@ -1,0 +1,55 @@
+*, html {
+    margin: 0%;
+    padding: 0.1rem;
+    overflow-x: hidden;
+  }
+  
+  .tabel-atas {
+    width: 100%;
+    margin: 0.5rem 0rem;
+  }
+  
+  .jadwal {
+    width: 100%;
+    height: 100%;
+    position: absolute; 
+    
+  }
+  .heading {
+    height: 50px;
+    width: 100px;
+  }
+  .logo-telkom {
+    height: 50px;
+  }
+  
+  .logo-yayasan {
+    height: 150px;
+    width: 150px;
+  }
+  
+  .judul {
+    font-size: 20px;
+   
+  }
+  
+  .subtopik {
+    font-size: 15px;
+    padding: 1rem;
+  }
+  
+  .day {
+    padding: 30px;
+  }
+  
+  .guru {
+    font-size: 10px;
+  }
+  
+  .jumat {
+    background-color: rgba(99, 203, 238, 0.933);
+  }
+  
+  .kelas {
+    padding: 1rem;
+  }
